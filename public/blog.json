@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1a23bc45",
+        "cover": "https://i.ibb.co/nwNKV4D/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "title": "The Enigmatic Quest",
+        "author": "Eleanor A. Thompson",
+        "author_img": "https://example.com/author1.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": 45,
+        "hashtags": [
+            "fiction",
+            "mystery",
+            "adventure"
+        ]
+    },
+    {
+        "id": "6789def0",
+        "cover": "https://i.ibb.co/nwNKV4D/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Samuel P. Reynolds",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "2023-09-11",
+        "reading_time": 60,
+        "hashtags": [
+            "fantasy",
+            "magic",
+            "epic"
+        ]
+    },
+    {
+        "id": "gh12ij34",
+        "cover": "https://i.ibb.co/nwNKV4D/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "title": "Secrets of the Abyss",
+        "author": "Isabella R. Walker",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 55,
+        "hashtags": [
+            "thriller",
+            "suspense",
+            "intrigue"
+        ]
+    },
+    {
+        "id": "kl56mn78",
+        "cover": "https://i.ibb.co/nwNKV4D/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "title": "Chronicles of Dreams",
+        "author": "William G. Mitchell",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "2023-09-09",
+        "reading_time": 50,
+        "hashtags": [
+            "science fiction",
+            "dreams",
+            "technology"
+        ]
+    },
+    {
+        "id": "op90qr12",
+        "cover": "https://i.ibb.co/nwNKV4D/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "title": "The Lost Kingdom",
+        "author": "Olivia S. Bennett",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": 70,
+        "hashtags": [
+            "historical fiction",
+            "adventure",
+            "discovery"
+        ]
+    }
+]
